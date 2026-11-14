@@ -6,6 +6,7 @@ __pycache__/
 # Datos y modelos (pesados o con licencia propia)
 data/raw/*
 data/processed/*
+data/interim/*
 models/*
 !**/.gitkeep
 
